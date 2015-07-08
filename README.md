@@ -1,8 +1,8 @@
 #Утилита для получения амплитудной диаграммы из mp3 файла
 
 <h3>Зависимости</h3>
-*gstreamer-tools
-*python-gst0.10-dev
+* gstreamer-tools
+* python-gst0.10-dev
 
 <h3>Примеры использования</h3>
 ```
